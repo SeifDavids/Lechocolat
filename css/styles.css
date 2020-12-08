@@ -112,6 +112,7 @@ address{
         background-color:transparent;
         min-height:100%;
       }
+    
       .group1 {
         float: left;
         position: relative;
@@ -146,12 +147,8 @@ address{
         background:transparent;
         margin-top:60px;
       }
-      header {
-        position: relative;
-        float:left;
-        width: 100%;
-        height:83px;
-      }
+      
+   
 
       
       /***************************************************
